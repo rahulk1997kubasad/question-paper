@@ -1,0 +1,5 @@
+This is a simple question paper upload application using PHP,AJAX,HTML,CSS Framework(Materialize),and JAVASCRIPT
+there are 2 modules
+1.Faculty
+2.Student
+The password for the Faculty and student is only limited to 4 alphabets. 
